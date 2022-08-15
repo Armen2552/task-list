@@ -1,0 +1,21 @@
+@import "src/assets/style/vairables";
+
+.P-task-list {
+  margin-top : 62px;
+}
+
+.P-empty-list {
+  text-align : center;
+  margin-top: 80px  ;
+
+  h3 {
+    color       : $gray;
+    font-size   : 24px;
+    font-weight : 500;
+  }
+
+  p {
+    font-size   : 36px;
+    font-weight : 500;
+  }
+}
